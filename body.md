@@ -1,3 +1,6 @@
+###Statement
+Help Big Cats Purr is an interactive website that utilizes the popularity of internet cat videos to bring awareness of the declining population of wild cats to the public.
+
 1. ####Introduction
 	As Clay Shirky argues, establishing and maintaining an organization has become much easier since the communication cost inside the group has greatly decreased. With the help of modern technologies, we can easily form a group for a common goal, and never have to be physically together. These groups can be a long-term organizations, like online communities and charities. Yet they can also exist for a short-term goal, like flash mob, Kickstarter projects, or ice bucket challenge. Short-term groups have more power (one of tips for successful campaign is set a shorter time) In my thesis, I try to find out the recipe for success of short-term project and implement on helping raise money for charity, which has a long-term goal and need a constant donation. To be specific, I will utilize cats popularity to improve big cats' situation.
 	
